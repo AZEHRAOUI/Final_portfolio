@@ -77,7 +77,7 @@ export const Hero = () => {
               <div className={`absolute inset-0 rounded-full ${theme === 'dark' ? 'bg-gradient-to-r from-primary to-accent opacity-20' : 'bg-gradient-to-r from-primary to-accent opacity-10'} blur-3xl animate-pulse`} />
               <img
                 src="/Anas Zehraoui.jpg"
-                alt="Professional photo"
+                alt="Professional logos"
                 className="rounded-full object-cover shadow-xl relative z-10"
               />
               <div className={`absolute inset-0 rounded-full border-4 ${theme === 'dark' ? 'border-primary/20' : 'border-primary/10'} animate-pulse`} />

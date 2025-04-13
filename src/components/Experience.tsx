@@ -10,7 +10,7 @@ export const Experience = () => {
   const companyLogos = {
     "Airbus": "/logos/airbus.png",
     "CETIM": "/logos/Cetim.png",
-    "Junior Entreprise POLYTECH LILLE": "/photo/pulce.jpg"
+    "Junior Entreprise POLYTECH LILLE": "/logos/pulce.jpg"
   };
 
   const experiences = [
