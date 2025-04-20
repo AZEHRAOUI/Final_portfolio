@@ -50,7 +50,7 @@ export const Hero = () => {
                 <ChevronRight className="ml-2 h-5 w-5" />
               </a>
               <a 
-              href={i18n.language === 'fr' ? "/cv-francais.pdf" : "/cv-english.pdf"}
+              href={i18n.language === 'fr' ? "/logos/cv-francais.pdf" : "/logos/cv-english.pdf"}
               download
               className={`inline-flex items-center px-6 py-3 border-2 border-primary text-primary rounded-full hover:bg-primary hover:text-white transition-all transform hover:scale-105`}
             >
